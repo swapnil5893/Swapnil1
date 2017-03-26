@@ -1,0 +1,360 @@
+
+<!DOCTYPE html>
+<!--[if IE]>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec" xml:lang="en" lang="en" dir="ltr" class="no-js en ie">
+<![endif]-->
+<!--[if !IE]> -->
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec" xml:lang="en" lang="en" dir="ltr" class="no-js en">
+<!-- <![endif]-->
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Contact Us | Combadi</title>
+  <meta name="description" content="Combadi offers innovative holiday &amp; travel experience ideas that help you learn, grow and change." />
+  <!--[if lt IE 9]><script type="text/javascript" src="/static/js/shiv/html5.js"></script><![endif]-->
+  <script type="text/javascript">(function(H){H.className=H.className.replace(/\bno-js\b/,'js');})(document.documentElement);</script>
+
+  <script type="text/javascript" src="//use.typekit.net/vkt2fib.js"></script>
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+  <link rel="shortcut icon" type="image/x-icon" href="/static/img/favicon.ico" />
+  <link rel="apple-touch-icon" href="/static/img/apple-touch-icon.png"/>
+  <link rel="stylesheet" type="text/css" href="/static/css/site.css?1410778737" media="screen" />
+  <link rel="stylesheet" type="text/css" href="/static/js/jquery-ui/jquery-ui-1.9.0.custom.min.css" media="screen" />
+  
+  <meta name="verifyownership" content="8b643af7a44f22bcd6d670fbc96b00dd" />
+
+  <script type="text/javascript" src="/static/js/jquery-1.10.2.min.js"></script>
+  <script type="text/javascript" src="/static/js/jquery-ui-1.10.3.custom.min.js"></script>
+  <script type="text/javascript" src="/static/js/jquery.imagesloaded.min.js?98657432234"></script>
+  <script type="text/javascript" src="/static/js/jquery.scrollto.js?786666799807456"></script>
+  <script type="text/javascript" src="/static/js/radial/jquery.rad.addons.js"></script>
+  <script type="text/javascript" src="/static/js/radial/jquery.rad.mousedownoutside.js"></script>
+  <script type="text/javascript" src="/static/js/radial/jquery.rad.ui.modal.js"></script>
+  <script type="text/javascript" src="/static/js/radial/jquery.rad.ui.pager.js"></script>
+  <script type="text/javascript" src="/static/js/radial/jquery.rad.ui.tabbar.js"></script>
+
+  <!-- Facebook meta -->
+  <meta property="fb:app_id" content="165546130235965" />
+
+  <!-- Twitter meta -->
+  <meta name="twitter:site" content="@CombadiTravel">
+  <meta name="twitter:creator" content="@CombadiTravel">
+  <meta name="twitter:domain" content="combadi.com">
+  <meta name="twitter:card" content="summary_large_image">
+
+  <!-- Open graph meta -->
+  <meta property="og:title" content="Contact Us | Combadi" />
+  <meta property="og:url" content="http://combadi.com/contact/" />
+  <meta property="og:image" content="http://combadi.com/static/img/combadi-logo.png" />
+  <meta property="og:description" content="Combadi offers innovative holiday &amp; travel experience ideas that help you learn, grow and change." />
+
+  <meta name="google-site-verification" content="EjE_bv8JEQ5UPQ8Q798PCxBpk-1-h2nihgISryatC9A" />
+  <meta name="msvalidate.01" content="3EC6BD9F382BFC8236847DD25256B579" />
+
+
+  <script type="text/javascript" src="http://www.skypeassets.com/i/scom/js/skype-uri.js"></script>
+</head>
+
+<body id="contact" class="contact">
+
+<div id="page"><div id="main-container">
+
+<div id="topbar">
+  <div class="wrapper">
+    <div class="tel">+44 20 7193 3316</div>
+    <div class="skype" id="SkypeButton_Call_Combaditravel_1">
+      <script type="text/javascript">
+        Skype.ui({
+          'name': 'call',
+          'element': 'SkypeButton_Call_Combaditravel_1',
+          'participants': ['Combaditravel'],
+          'imageSize': 24
+        });
+      </script>
+    </div>
+    <div class="share-new">
+      <a rel="nofollow" target="_blank" class="share-service share-fb" href="http://www.facebook.com/Combadi" title="Find us on Facebook">Find us on Facebook</a>
+      <a rel="nofollow" target="_blank" class="share-service share-tt" href="http://twitter.com/combaditravel" title="Find us on Twitter">Find us on Twitter</a>
+      <a rel="nofollow" target="_blank" class="share-service share-gp" href="https://plus.google.com/u/0/101956381514422700102/" title="Find us on Google+">Find us on Google+</a>
+      <a rel="nofollow" target="_blank" class="share-service share-pt" href="http://www.pinterest.com/combadi/" title="Find us on Pinterest">Find us on Pinterest</a>
+    </div>
+  </div>
+</div>
+
+<header id="siteheader"><div class="wrapper">
+  <a id="combadi-logo" href="/">
+        <img src="/static/img/combadi-logo.png" alt="" width="192" height="77" />
+      </a>
+  <nav class="mainnav">
+    <a class="mn-trait" href="/mind/">Mind</a>
+    <a class="mn-trait" href="/body/">Body</a>
+    <a class="mn-trait" href="/soul/">Soul</a>
+    <span class="mn-sep">•</span>
+    <a class="mn-offers" href="/offers.html">Offers</a>
+    <a class="mn-blog" href="/blog/">Blog</a>
+    <a class="mn-search" href="#mn-searchform">Search</a>
+    <form id="mn-searchform" action="/search/" method="get" accept-charset="utf-8">
+      <input name="q" type="text" placeholder="Type and hit enter" />
+    </form>
+  </nav>
+</div></header>
+
+<div id="sitecontent">
+
+<div class="wrapper">
+  
+  <p id="register-link">Are you a Holiday Provider? Use
+    <a href="/register-holiday/">this form</a>
+    to register your holiday.</p>
+  
+  <form id="contact-form" class="styled-form" action="" method="post" accept-charset="utf-8">
+    <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="8ece95d139633656ad0371bf53c45b2d" /></div>    
+    <h1 class="pagetitle">Contact us</h1>
+    
+    <div class="note">
+      <p>We are here to answer any questions you may have about our combadi
+        experiences. Reach out to us and we'll respond as soon as we can.</p>
+      <p>Even if there is something you have always wanted to experience and
+        can't find it on combadi, let us know and we promise we'll do our
+        best to find it for you and send you there.</p>
+    </div>
+    
+    <p class="row half first">
+      <label for="id_name">Name: <span class="required">*</span></label>
+      <span class="field"><input type="text" name="name" id="id_name" /></span>
+    </p>
+    <p class="row half">
+      <label for="id_email">Email: <span class="required">*</span></label>
+      <span class="field"><input type="text" name="email" id="id_email" /></span>
+    </p>
+    <p class="row">
+      <label for="id_message">Message: <span class="required">*</span></label>
+      <span class="field"><textarea cols="40" rows="5" name="message" id="id_message"></textarea></span>
+    </p>
+    <p class="row half first">
+      <label for="id_tapcha_0">How much is 2+9? <span class="required">*</span></label>
+      <span class="field"><input type="text" name="tapcha_0" id="id_tapcha_0" /><input type="hidden" name="tapcha_1" id="id_tapcha_1" value="ZjYxYzczNjBlYTBlYTkyYWNhMjZiNmUwNTFhMzJmM2VmYzljNzA5OA==" /></span>
+      <span style="display:none">
+      <span class="field"><input type="text" name="honeypot" id="id_honeypot" /></span>
+      </span>
+    </p>
+    <p class="submit-row">
+      <button type="submit">SEND</button>
+    </p>
+  </form>
+  
+  <aside id="contact-info">
+    <dl>
+      <dt>Email</dt>
+      <dd><a href="mailto:info@combadi.com" title="Click to send us an email">info@combadi.com</a></dd>
+      <dt>Telephone</dt>
+      <dd><a href="tel:00306977447033" title="Click to call us">+44 20 7193 3316</a></dd>
+      <dt>Skype</dt>
+      <dd><a href="skype:combaditravel?call" title="Click to call us on Skype">combaditravel</a></dd>
+      <dt>Address</dt>
+      <dd>
+        <address>
+          Combadi Ltd.<br />
+          1 Kings Avenue<br />
+          London<br />
+          N21 3NA<br />
+          England<br /><br />
+          Company No. 08714000
+        </address>
+      </dd>
+      <dd class="social-links">
+        <a class="fb" href="http://www.facebook.com/Combadi" title="Find us on Facebook">Facebook</a>
+        <a class="tt" href="http://twitter.com/combaditravel" title="Find us on Twitter">Twitter</a>
+      </dd>
+    </dl>
+  </aside>
+</div>
+
+</div>
+
+<footer id="sitefooter"><div class="wrapper">
+  <div id="footer-links" class="block first">
+    <nav class="mininav-container">
+      <h4>Navigate</h4>
+
+      <ul class="mininav first">
+        <li><a href="/">Home</a></li>
+        <li><a href="/mind/">Mind</a></li>
+        <li><a href="/body/">Body</a></li>
+        <li><a href="/soul/">Soul</a></li>
+      </ul>
+
+      <ul class="mininav">
+        <li><a href="/about/">About</a></li>
+        <li><a href="/contact/">Contact</a></li>
+        <li><a href="/faq/">F.A.Q.</a></li>
+        <li><a href="/blog/">Blog</a></li>
+      </ul>
+
+      <ul class="m">
+        <li style="margin-top: 140px;"><a href="/register-holiday/">Register your holiday</a></li>
+        <!-- <li><a href="#">Advertise with us</a></li> -->
+        <li>
+          <div style="margin-top: 20px;">
+            <a href="http://www.traveltrust.co.uk"><img src="/static/img/tta.png" /></a>
+          </div>
+        </li>
+      </ul>
+    </nav>
+  </div>
+
+  <div id="footer-newsletter" class="block">
+    <h4>Stay In The Loop</h4>
+    <p>Receive monthly cool ideas, inspiring stories, great reviews and offers.</p>
+    <form action="/newsletter/" accept-charset="utf-8" method="post">
+      <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="8ece95d139633656ad0371bf53c45b2d" /></div>      <span class="fields">
+      <span class="field"><input type="text" name="newsletter-email" placeholder="Your email address" id="id_newsletter-email" /></span>
+      </span>
+      <input type="submit" value="SUBMIT" />
+    </form>
+
+    <h4 id="cards-supported-heading" style="margin-top: 50px;">Supported Credit Cards</h4>
+    <!--<script language="JavaScript" src="https://secure.worldpay.com/wcc/logo?instId=1017630"></script> -->
+    <ul class="cards-supported" style="list-style-type: none;">
+      <li>
+        <a id="mastercard" class="card-logo" href="http://www.mastercard.com" target="_blank" style="display: inline-block; float: left; height:40px; width: 63px; background-image:url('/static/img/combined8.png'); background-position: 0 0;"></a>
+      </li>
+      <li>
+        <a id="jcb" class="card-logo" href="http://www.jcbusa.com" target="_blank" style="display: inline-block; float: left; margin-left: 5px; height:40px; width: 52px; background-image:url('/static/img/combined8.png'); background-position: -70px 0;"></a>
+      </li>
+      <li>
+        <a id="maestro" class="card-logo" href="http://www.maestrocard.com" target="_blank" style="display: inline-block; float: left; margin-left: 5px; height:40px; width: 67px; background-image:url('/static/img/combined8.png'); background-position: -131px 0;"></a>
+      </li>
+      <li>
+        <a id="visa" class="card-logo" href="http://www.visa.com" target="_blank" style="display: inline-block; float: left; margin-left: 5px; height:40px; width: 76px; background-image:url('/static/img/combined8.png'); background-position: 178px 0;"></a>
+      </li>
+    </ul>
+    <a id="worldpay" href="http://www.worldpay.com/support/index.php?CMP=BA22713" target="_blank" style="display: block; float: left; clear: both; height:40px; width: 98px; margin-top: 8px; background-image:url('/static/img/combined8.png'); background-position: 98px 0;"></a>
+  </div>
+
+  <div id="footer-socials" class="block">
+    <h4>Connect With Combadi</h4>
+        <ul class="addthis_toolbox" addthis:url="http://combadi.com/" addthis:title="Innovative holiday &amp; travel ideas that help you learn, grow and change.">
+      <li><a class="addthis_button_facebook_like" fb:like:layout="standard" fb:like:href="http://www.facebook.com/Combadi" fb:like:width="306" fb:like:show_faces="true"></a></li>
+      <li><a class="addthis_button_twitter_follow_native" tf:show-count="false" tf:screen_name="combaditravel" tf:width="306px"></a></li>
+    </ul>
+
+    <div class="solinks">
+      <a rel="nofollow" class="icon icon-fb" href="http://www.facebook.com/Combadi" title="Find us on Facebook">Find us on Facebook</a>
+      <a rel="nofollow" class="icon icon-tt" href="http://twitter.com/combaditravel" title="Find us on Twitter">Find us on Twitter</a>
+      <a rel="nofollow" class="icon icon-gp" href="https://plus.google.com/u/0/101956381514422700102/" title="Find us on Google+">Find us on Google+</a>
+      <a rel="nofollow" class="icon icon-pt" href="http://www.pinterest.com/combadi/" title="Find us on Pinterest">Find us on Pinterest</a>
+    </div>
+
+    <div class="vcard" style="margin-top: 50px;">
+      <h4 class="fn org">COMBADI</h4>
+      <div class="adr">
+          <div class="street-address">37 Craven Hill Gardens Bayswater</div>
+          <div> <span class="locality">London</span>, <span class="postal-code">W23EA</span></div>
+          <div class="country-name">UK</div>
+      </div>
+      <div>Phone: <a class="tel" href='tel:00442071933316'>+44 20 7193 3316</a></div>
+      <div>Email: <a class="email" href='mailto:info@combadi.com'>info@combadi.com</a></div>
+    </div>
+
+  </div>
+
+  <div id="footer-combadi-logo">
+    <img src="/static/img/footer-come-back-different.png" alt="Come Back Different" width="355" height="104" />
+  </div>
+
+  <img id="awwwards" src="/static/img/awwwards.png" alt="Combadi awards" width="424" height="50" />
+
+  <div id="footer-bottom">
+    <p id="hbr"><a href="http://radial.gr/en/">Handcrafted by <strong>RADIAL</strong></a></p>
+    <p id="ssm">&copy; 2014 Combadi. All Rights Reserved. | <a href="/disclaimer/">Disclaimer</a></p>
+  </div>
+</div></footer>
+
+</div></div>
+
+<div id="main-modal" class="modal" style="display:none">
+  <div class="modal-thinker"></div>
+  <div class="modal-content-wrapper">
+    <div class="modal-content"></div>
+    <div class="modal-close"><a href="#">Close</a></div>
+  </div>
+</div>
+
+
+
+
+<script type="text/javascript">
+  jQuery(document).ready(function($) {
+    var $siteSearchForm = $('#mn-searchform'),
+        $siteSearchButton = $('.mn-search');
+
+    $('#siteheader .mainnav').on('click', 'a', function(e) {
+      if ($(this).attr('href') == '#mn-searchform') {
+        e.preventDefault();
+        if ($siteSearchButton.hasClass('active')) {
+          $siteSearchButton.removeClass('active');
+          $siteSearchForm.removeClass('active');
+        } else {
+          $siteSearchButton.addClass('active');
+          $siteSearchForm.addClass('active')
+            .find('input').focus();
+        }
+      }
+    });
+
+    $siteSearchForm.find('input').on('mousedownoutside', function(e) {
+      if (e.target != $siteSearchButton.get(0)) {
+        $siteSearchButton.removeClass('active');
+        $siteSearchForm.removeClass('active');
+      }
+    });
+  });
+</script>
+
+<script type="text/javascript">
+  jQuery(document).ready(function($) {
+    $('#footer-newsletter').on('submit', 'form', function(e) {
+      e.preventDefault();
+      var self = this,
+          data = $(this).serialize(),
+          target = $(this).attr('action');
+      $.post(target, data, function(response) {
+        setTimeout(function() {
+          $(self).find('.fields').html(response);
+          if ($(self).find('.msg').length > 0)
+            $(self).addClass('success');
+        }, 0);
+      });
+    });
+  });
+</script>
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-515952-66', 'combadi.com');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+</script>
+
+<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50803f2a7a7fbbf3&amp;async=1"></script>
+<script type="text/javascript">
+  var addthis_config = {
+    // ui_language: "el",
+    ui_click: true,
+    data_ga_property: 'UA-515952-66',
+    data_track_clickback: true
+  };
+
+  jQuery(document).ready(function($) {
+    if (typeof window.addthis != "undefined") {
+      addthis.init();
+    }
+  });
+</script>
+
+</body>
+</html>
